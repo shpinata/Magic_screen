@@ -1,0 +1,83 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+#setka {
+    width: 100%;
+    display: flex;
+    margin: 0;
+}
+
+#collor {
+    background: rgb(196, 195, 195);
+    display: flex;
+    justify-content: center;
+}
+
+#collor button {
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#black {
+    width: 20px;
+    height: 20px;
+    background: black;
+    display: flex;
+    border: 0;
+    padding: 0;
+}
+
+#red {
+    width: 20px;
+    height: 20px;
+    background: red;
+    display: flex;
+    border: 0;
+    padding: 0;
+}
+
+#blue {
+    width: 20px;
+    height: 20px;
+    background: blue;
+    display: flex;
+    border: 0;
+    padding: 0;
+}
+#green {
+    width: 20px;
+    height: 20px;
+    background: green;
+    display: flex;
+    border: 0;
+    padding: 0;
+}
+
+#rainbowClick {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    display: flex;
+    border: 0;
+    padding: 0;
+    background: white;
+}
+
+#lastik {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    display: flex;
+    border: 0;
+    padding: 0;
+    background: white;
+
+}
+
+#collor img {
+    width: 20px;
+    height: 20px; 
+    display: flex;
+    border-radius: 5px;
+}
